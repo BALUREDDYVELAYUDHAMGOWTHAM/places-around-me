@@ -210,14 +210,14 @@ The origins of this temple, are buried in antiquity. This temple has been mentio
 
 
 ## Output:
-[image_list](images/tiruttaniphoto.png)
-[image_list](images/cinema.png)
-[image_list](images/fire.png)
-[image_list](images/hospital.png)
-[image_list](images/lake.png)
-[image_list](images/temple.png)
-[image_list](images/htmlvalidator.png)
-[image_list](images/tiruthani.png)
+[image_list](./tiruttaniphoto.png)
+[image_list](./cinema.png)
+[image_list](./fire.png)
+[image_list](./hospital.png)
+[image_list](./lake.png)
+[image_list](./temple.png)
+[image_list](./htmlvalidator.png)
+[image_list](./tiruthani.png)
 
 ## Result:
 
